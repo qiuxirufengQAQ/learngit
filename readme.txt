@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 wangweiguo is handsome.
 del the line.
 git has a mutable index called stage.
+Git tracks changes.
